@@ -67,7 +67,7 @@
 
 
 #### Simple but Innovative Ones 🤗
-
+- [Mohit Maurya](https://github.com/Mohit138928/Mohit138928)
 
 #### Typing.. Mode 🎰
 
