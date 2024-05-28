@@ -20,20 +20,20 @@
 
 ### Contents:
   - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [GIFS 👻](#gifs-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
+      - [GitHub Actions](#github-actions-)
+      - [Minimalistic](#minimalistic-)
+      - [Game Mode](#game-mode-)
+      - [Code Mode](#code-mode-)
+      - [Dynamic Realtime](#dynamic-realtime-)
+      - [A Little Bit of Everything](#a-little-bit-of-everything-)
+      - [Descriptive](#descriptive-)
+      - [Simple but Innovative Ones](#simple-but-innovative-ones-)
+      - [Typing.. Mode](#typing-mode-)
+      - [Anime](#anime-)
+      - [GIFS](#gifs-)
+      - [Badges](#badges-)
+      - [Fancy Fonts](#fancy-fonts-)
+      - [Icons](#icons-)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
@@ -44,47 +44,47 @@
 
 ## Categories
 
-#### GitHub Actions 🤖
+#### GitHub Actions
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 
 
-#### Minimalistic ✨
+#### Minimalistic
 - [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
 
-#### Game Mode 🚀
+#### Game Mode
 
 
-#### Code Mode 👨🏽‍💻
+#### Code Mode 
 
 
-#### Dynamic Realtime 💫
+#### Dynamic Realtime
 
 
-#### A Little Bit of Everything 😃
+#### A Little Bit of Everything
 
 
-#### Descriptive 🗒
+#### Descriptive
 
 
-#### Simple but Innovative Ones 🤗
-- [Mohit Maurya](https://github.com/Mohit138928/Mohit138928)
-
-#### Typing.. Mode 🎰
+#### Simple but Innovative Ones
 
 
-#### Anime 👾
+#### Typing.. Mode
 
 
-#### GIFS 👻
+#### Anime
 
 
-#### Badges 🎫
+#### GIFS
 
 
-#### Fancy Fonts 🖋
+#### Badges
 
 
-#### Icons 🎯
+#### Fancy Fonts
+
+
+#### Icons
 
 
 
@@ -105,7 +105,7 @@
 - [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
 - [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
 - [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
-- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
+- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early Bird or a night Owl? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
 - [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
 - [Profile README Widgets](https://github.com/marketplace/actions/profile-readme) - Add simple widgets to your profile readme.
 - [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) - Generate your Spotify now playing card for your GitHub profile
@@ -126,7 +126,7 @@
 - [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
 - [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
 - [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
-- [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
+- [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) -  Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
 
@@ -135,10 +135,10 @@
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 - ["How to Stand Out on Github with Profile READMEs"](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f) - *Jessica Lim*
 - ["What's on your GitHub Profile"](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3) - *Waylon Walker*
-- ["3 Ways to Spice up your Github Profile README 🔥"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
+- ["3 Ways to Spice up your Github Profile README"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
 - ["Dynamically Generated Github Stats For Your Profile ReadMe"](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g) - *Anurag Hazra*
 - ["How to create an awesome GIF for your GitHub Profile README"](https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n) - *Satvik Chachra*
-- ["Create a special repository in your GitHub Profile 🔨, supported and unsupported features"](https://torrocus.com/blog/special-github-repository/) - *Alex Malaszkiewicz*
+- ["Create a special repository in your GitHub Profile, supported and unsupported features"](https://torrocus.com/blog/special-github-repository/) - *Alex Malaszkiewicz*
 - ["How to create a Github Profile README with Dynamic Github Stats"](https://codewithghazi.com/how-to-create-a-github-profile-readme-with-dynamic-github-stats/) - *Ghazi Khan*
 - ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
 - ["Building a self-updating profile README for GitHub"](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - *Simon Willison*
@@ -148,7 +148,7 @@
 - ["Show your latest dev.to posts automatically on your GitHub profile readme"](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)  - *Gautam krishna R*
 - ["How I Built A Self-Updating README by Webhooks and Netlify Functions"](https://github.com/RaoHai/RaoHai/blob/master/How-I-Built-A-Self-Updating-README-by-Webhooks-and-Netlify-Functions.md/) - *Rao Hai*
 - ["Build a Stunning README For Your GitHub Profile"](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) - *Martin Heinz*
-- ["How I added my Spotify statistics to my GitHub readme 📜"](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd) - *Akshit Garg*
+- ["How I added my Spotify statistics to my GitHub readme"](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd) - *Akshit Garg*
 - ["Static Readme Regeneration"](https://dev.to/aralroca/static-readme-regeneration-4pf2) - *Aral Roca*
 - ["How to Create a Self-Updating README.md for Your GitHub Profile"](https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) - *Thomas Guibert*
 
