@@ -58,7 +58,7 @@
 
 
 #### Dynamic Realtime
-
+- [Jacob Philpott](https://github.com/jgphilpott)
 
 #### A Little Bit of Everything
 
