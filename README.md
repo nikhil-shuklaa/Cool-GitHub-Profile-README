@@ -52,7 +52,7 @@
 - [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
 
 #### Game Mode
-
+- [Timothy Ian Hely](https://github.com/SeiferTim/SeiferTim)
 
 #### Code Mode 
 
