@@ -3,17 +3,23 @@
 <img src="https://img.shields.io/badge/%F0%9F%95%B6%EF%B8%8F-Cool%20GitHub%20READMEs-purple" alt="Awesome Badge"/>
 
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://twitter.com/nikhl_shuklaa" ><img src="https://img.shields.io/twitter/follow/nikhil_shuklaa.svg?style=social" /> </a>
+<a href="https://twitter.com/nikhl_shuklaa" ><img src="https://img.shields.io/twitter/follow/nikhil_shuklaa.svg?style=social"/> </a>
 <br>
 
-<i>A curated list of Cool Github Profile READMEs</i>
+<i>A curated list of Cool GitHub Profile READMEs</i>
+</br>
+Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=flat-square&logo=ApacheSpark&logoColor=black) if you found this helpful
 
 <a href="https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README/stargazers"><img src="https://img.shields.io/github/stars/nikhil-shuklaa/Cool-GitHub-Profile-README" alt="Stars Badge"/></a>
 <a href="https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README/network/members"><img src="https://img.shields.io/github/forks/nikhil-shuklaa/Cool-GitHub-Profile-README" alt="Forks Badge"/></a>
 <a href="https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README/pulls"><img src="https://img.shields.io/github/issues-pr/nikhil-shuklaa/Cool-GitHub-Profile-README" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README/issues"><img src="https://img.shields.io/github/issues/nikhil-shuklaa/Cool-GitHub-Profile-README" alt="Issues Badge"/></a>
 <a href="https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nikhil-shuklaa/Cool-GitHub-Profile-README?color=2b9348"></a>
+![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <a href="https://github.com/nikhil-shuklaa/Cool-GitHub-Profile-README/blob/master/LICENSE"><img src="https://img.shields.io/github/license/nikhil-shuklaa/Cool-GitHub-Profile-README" alt="License Badge"/></a>
+
+
 
 
 </div>
@@ -28,7 +34,7 @@
       - [A Little Bit of Everything](#a-little-bit-of-everything-)
       - [Descriptive](#descriptive-)
       - [Simple but Innovative Ones](#simple-but-innovative-ones-)
-      - [Typing.. Mode](#typing-mode-)
+      - [Typing Mode](#typing-mode-)
       - [Anime](#anime-)
       - [GIFS](#gifs-)
       - [Badges](#badges-)
@@ -70,7 +76,7 @@
 #### Simple but Innovative Ones
 
 
-#### Typing.. Mode
+#### Typing Mode
 
 
 #### Anime
@@ -95,7 +101,7 @@
 - [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
-- [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
+- [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - Stay motivated and show off your contribution streak! Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
 - [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
@@ -129,7 +135,7 @@
 - [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
 - [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) -  Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
 
 ## Articles
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
