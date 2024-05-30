@@ -68,7 +68,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 - [Zaid Hafeez](https://github.com/Zaid-maker)
 
 #### A Little Bit of Everything
-
+- [Dipaloke Biswas](https://github.com/dipaloke/dipaloke)
 
 #### Descriptive
 
