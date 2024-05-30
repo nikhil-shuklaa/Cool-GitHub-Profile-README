@@ -55,7 +55,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 
 #### Minimalistic
-- [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
+- [Khyat Talsaniya](https://github.com/Talsaniya-Khyat/Talsaniya-Khyat)
 
 #### Game Mode
 - [Timothy Ian Hely](https://github.com/SeiferTim/SeiferTim)
