@@ -56,12 +56,12 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 #### Minimalistic
 - [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
-- [Adonis Medrocillo](https://github.com/adonis-dev17) 
+
 - [Fikri R.](https://github.com/superXdev)
 
 #### Game Mode
 - [Timothy Ian Hely](https://github.com/SeiferTim/SeiferTim)
-
+- [Adonis Medrocillo](https://github.com/adonis-dev17) 
 #### Code Mode 
 
 
