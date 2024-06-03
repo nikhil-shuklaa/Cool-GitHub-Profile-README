@@ -55,7 +55,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 
 #### Minimalistic
-- [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
+- [ADITYA KUMAR](https://github.com/adityspecial/adityspecial)
 - [Fikri R.](https://github.com/superXdev)
 
 #### Game Mode
