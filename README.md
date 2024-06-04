@@ -62,7 +62,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 - [Timothy Ian Hely](https://github.com/SeiferTim/SeiferTim)
 
 #### Code Mode 
-
+- [Swarada Bhosale](https://github.com/swarraaa/swarraaa)
 
 #### Dynamic Realtime
 - [Jacob Philpott](https://github.com/jgphilpott)
