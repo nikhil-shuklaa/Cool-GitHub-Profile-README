@@ -75,7 +75,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 - [LIGMATV](https://github.com/LIGMATV)
 
 #### Simple but Innovative Ones
-
+- [Mohit Maurya](https://github.com/Mohit138928/Mohit138928)
 
 #### Typing Mode
 
