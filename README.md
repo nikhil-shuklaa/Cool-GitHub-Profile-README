@@ -34,6 +34,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
       - [A Little Bit of Everything](#a-little-bit-of-everything)
       - [Descriptive](#descriptive)
       - [Simple but Innovative Ones](#simple-but-innovative-ones)
+      - [Themed](#themed)
       - [Typing Mode](#typing-mode)
       - [Anime](#anime)
       - [GIFS](#gifs)
@@ -77,6 +78,9 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 #### Simple but Innovative Ones
 - [Mohit Maurya](https://github.com/Mohit138928/Mohit138928)
+
+#### Themed
+- [Ahmad-Mtr](https://github.com/Ahmad-Mtr/Ahmad-Mtr)
 
 #### Typing Mode
 
