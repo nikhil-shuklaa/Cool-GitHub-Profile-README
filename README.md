@@ -59,6 +59,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 - [Nikhil Shukla](https://github.com/nikhil-shuklaa/nikhil-shuklaa)
 - [Fikri R.](https://github.com/superXdev)
 - [Axel Frache](https://github.com/axelfrache/axelfrache)
+- 
 
 #### Game Mode
 - [Timothy Ian Hely](https://github.com/SeiferTim/SeiferTim)
@@ -72,6 +73,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 #### A Little Bit of Everything
 - [Dipaloke Biswas](https://github.com/dipaloke/dipaloke)
+- [Arpit Chaubay](https://github.com/arpitchaubey)
 
 #### Descriptive
 - [LIGMATV](https://github.com/LIGMATV)
