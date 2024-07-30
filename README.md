@@ -63,6 +63,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 #### Game Mode
 - [Timothy Ian Hely](https://github.com/SeiferTim/SeiferTim)
+- [Juny Jago](https://github.com/dionyyy/dionyyy)
 
 #### Code Mode 
 - [Swarada Bhosale](https://github.com/swarraaa/swarraaa)
