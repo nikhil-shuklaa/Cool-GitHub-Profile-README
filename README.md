@@ -73,6 +73,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 
 #### A Little Bit of Everything
 - [Dipaloke Biswas](https://github.com/dipaloke/dipaloke)
+- [Deri Kurniawan](https://github.com/Deri-Kurniawan/Deri-Kurniawan)
 
 #### Descriptive
 - [LIGMATV](https://github.com/LIGMATV)
