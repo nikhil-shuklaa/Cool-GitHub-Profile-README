@@ -70,6 +70,7 @@ Don't forget to give a ![Stars](https://img.shields.io/badge/Star-FFD700?style=f
 #### Dynamic Realtime
 - [Jacob Philpott](https://github.com/jgphilpott)
 - [Zaid Hafeez](https://github.com/Zaid-maker)
+- [Papia-tech](https://github.com/Papia-tech)
 
 #### A Little Bit of Everything
 - [Dipaloke Biswas](https://github.com/dipaloke/dipaloke)
